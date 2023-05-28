@@ -9,8 +9,10 @@ if ( isset($_POST['submit'])) {
   $branch_name = $_POST ['branch_id'];
   $intBranch = (int)$branch_name;
   $image=$_POST ['image'];
+  
   $name=$_POST ['name'];
   $brand=$_POST ['brand'];
+  //$_FILES['slide_image']['name'];
    
   $sql = "INSERT INTO mobile(brand,name,image,branch_id) VALUES ( '$brand', '$name', null,' $intBranch')";
  
