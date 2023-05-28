@@ -17,10 +17,10 @@
   
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="/EMC_MOBILE">Home</a>
+        <a class="nav-link" href="/EMC_MOBILE/admin">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/EMC_MOBILE/add_mobile.php">Add mobile</a>
+        <a class="nav-link" href="/EMC_MOBILE/admin/add_mobile.php">Add mobile</a>
       </li>
     </ul>
   </div>
