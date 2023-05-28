@@ -19,6 +19,15 @@
       <li class="nav-item active">
         <a class="nav-link" href="/EMC_MOBILE/">Home</a>
       </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/EMC_MOBILE/matara.php">Matara</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/EMC_MOBILE/galle.php">Galle</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/EMC_MOBILE/hambanthota.php">Hambanthota</a>
+      </li>
       <li>
         <a class="nav-link" href="/EMC_MOBILE/login.php">Login</a>
       </li>
